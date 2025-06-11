@@ -12,7 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/gabriel-espinoza-77/vulnerability-management-program)**
-
+- **[VM Onboarding and Isolation Project](https://github.com/gabriel-espinoza-77/vm-onboarding-and-isolation)**
 
 <hr/>
 
