@@ -13,7 +13,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Vulnerability Management Program Implementation](https://github.com/gabriel-espinoza-77/vulnerability-management-program)**
 - **[VM Onboarding and Isolation Project](https://github.com/gabriel-espinoza-77/vm-onboarding-and-isolation)**
-- **[Remote Code Execution Detection via PowerShell (MDE)](https://github.com/gabriel-espinoza-77/mde-rce-detection-rule)**  
+- **[Remote Code Execution Detection via PowerShell](https://github.com/gabriel-espinoza-77/mde-rce-detection-rule)**  
 
 <hr/>
 
